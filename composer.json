@@ -1,0 +1,11 @@
+{
+    "name": "rakeshsoft/calculator",
+    "description": "This package will do some calculations",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Rakeshsoft\\Calculator\\": "src/"
+        }
+    },
+    "require": {}
+}
